@@ -31,7 +31,7 @@ _Suggestions are welcome!_
 1) [Creation, Insertion, and Traversal](https://example.com/) 
 2) [Deletion of an Element](https://example.com/) 
 3) [Searching an Element](https://example.com/) 
-4) Reversal of a Circular Linked List
+4) Reversal of a Circular Linked List(https://www.geeksforgeeks.org/reverse-circular-linked-list/)
 
 ## Stacks and Queues
 - **Stacks**
