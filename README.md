@@ -28,7 +28,7 @@ _Suggestions are welcome!_
 3) Reversal of a Double Linked List
 4) [Traversal Challenge](LinkedList/DoublyLinkedList.java#L108)  (Two steps forward & One step backward)
 - **Circular Linked List**
-1) [Creation, Insertion, and Traversal](https://example.com/) 
+1) [Creation, Insertion, and Traversal](https://www.geeksforgeeks.org/circular-linked-list-set-2-traversal/) 
 2) [Deletion of an Element](https://example.com/) 
 3) [Searching an Element](https://example.com/) 
 4) Reversal of a Circular Linked List
